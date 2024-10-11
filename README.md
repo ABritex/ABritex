@@ -47,7 +47,7 @@ if __name__ == '__main__':
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img  src="https://skillicons.dev/icons?i=arch,windows,bash,py,java,cpp,c,cs,go,rust,matlab,htmx,html,css,js,typescript,php,nodejs,npm,bootstrap,angular,dotnet,mysql,sqlite,arduino,raspberrypi,git,github,vercel,firebase,gcp,docker,pytorch,tensorflow" />
+    <img  src="https://skillicons.dev/icons?i=arch,windows,bash,py,java,cpp,c,cs,go,rust,html,css,js,typescript,php,nodejs,npm,bootstrap,angular,mysql,sqlite,arduino,raspberrypi,git,github,vercel,firebase,gcp,docker,pytorch,tensorflow" />
   </a>
   <br/>
 </div>
