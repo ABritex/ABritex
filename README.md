@@ -60,10 +60,10 @@ if __name__ == '__main__':
 
 ### - ⚡️ Stats
 
-<table align="center">
-  <tr>
-    <td><a target="_blank"><img src="https://github-readme-stats.vercel.app/api?username=ABritex&theme=catppuccin_mocha&hide_border=true&include_all_commits=false&count_private" alt="My Stats"/></a></td>
-    <td><a target="_blank"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ABritex&theme=catppuccin_mocha&hide_border=true" alt="My Streak"/></a></td>
+<table align="center", style="border:none;">
+  <tr style="border:none;">
+    <td style="border:none;"><a target="_blank"><img src="https://github-readme-stats.vercel.app/api?username=ABritex&theme=catppuccin_mocha&hide_border=true&include_all_commits=false&count_private" alt="My Stats"/></a></td>
+    <td style="border:none;"><a target="_blank"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ABritex&theme=catppuccin_mocha&hide_border=true" alt="My Streak"/></a></td>
   </tr>
 </table>
 <br>
