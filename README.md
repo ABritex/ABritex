@@ -1,5 +1,6 @@
 <div align="center">
-
+  <img src="https://github-profile-maker.vercel.app/api/capsule?type=waving&color=36BCF7&colorEnd=6B5DD3&height=200&section=header&text=Welcome+to+my+GitHub%21&fontSize=30&fontColor=ffffff&animation=none&gradientDirection=horizontal&parallax=true&wavePosition=70&waveAmplitude=20&waveSpeed=20&flipWave=true&textAlignX=50&textAlignY=33" />
+</div>
 <!-- Status badges -->
 ![Status](https://img.shields.io/badge/🟢_Open_to_Work-238636?style=flat-square&labelColor=0d1117&color=238636)
 ![Location](https://img.shields.io/badge/📍_Philippines-30363d?style=flat-square&labelColor=0d1117&color=30363d)
@@ -13,10 +14,9 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Mono&size=16&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=520&lines=Building+beautiful+web+experiences+%E2%9C%A6;Turning+designs+into+pixel-perfect+code;Always+learning+something+new)](https://git.io/typing-svg)
 
 <!-- Social links — replace each URL -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_USERNAME)
-[![Twitter](https://img.shields.io/badge/Twitter_/_X-000000?style=flat-square&logo=x&logoColor=white)](https://twitter.com/YOUR_USERNAME)
-[![Portfolio](https://img.shields.io/badge/Portfolio-58A6FF?style=flat-square&logo=google-chrome&logoColor=white)](https://YOUR_PORTFOLIO.dev)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:your@email.com)
+[![Twitter](https://img.shields.io/badge/Twitter_/_X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/ABr1tex)
+[![Portfolio](https://img.shields.io/badge/Portfolio-58A6FF?style=flat-square&logo=google-chrome&logoColor=white)](https://e-portfolio-nics.vercel.app/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:nicos.abeleda@gmail.com)
 
 </div>
 
@@ -94,18 +94,19 @@
 
 If you find my projects helpful, consider buying me a coffee!
 
-<a href="https://www.buymeacoffee.com/asd">
+<a href="https://buymeacoffee.com/abritex">
   <img src="https://img.shields.io/badge/Buy_Me_a_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=000" />
 </a>
 &nbsp;
-<a href="https://www.ko-fi.com/asd">
+<a href="https://ko-fi.com/abr1tex ">
   <img src="https://img.shields.io/badge/Ko--fi-29ABE0?style=for-the-badge&logo=ko-fi&logoColor=fff" />
 </a>
 
 ---
 
 <div align="center">
-
+  <img src="https://github-profile-maker.vercel.app/api/capsule?type=waving&color=36BCF7&colorEnd=6B5DD3&height=120&section=footer&text=Thanks+for+visiting%21&fontSize=24&fontColor=ffffff&animation=none&gradientDirection=horizontal&parallax=true&wavePosition=70&waveAmplitude=20&waveSpeed=20&flipWave=true&textAlignX=50&textAlignY=66" />
+</div>
 ![Profile Views](https://komarev.com/ghpvc/?username=abritex&color=58a6ff&style=flat-square&label=Profile+Views)
 
 *Thanks for stopping by — go build something great!*
