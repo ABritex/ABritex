@@ -1,0 +1,71 @@
+<svg width="100%" viewBox="0 0 680 320" role="img" xmlns="http://www.w3.org/2000/svg">
+<title>abritex neofetch card</title>
+<desc>Neofetch-style about me card for abritex, a frontend developer from the Philippines</desc>
+
+<rect width="680" height="320" rx="10" fill="#0d1117"/>
+<rect x="1" y="1" width="678" height="318" rx="9" fill="none" stroke="#21262d" stroke-width="1"/>
+
+<style>
+.mono { font-family: 'Courier New', Courier, monospace; }
+.key  { fill: #58a6ff; font-weight: 700; }
+.val  { fill: #c9d1d9; }
+.dim  { fill: #8b949e; }
+.grn  { fill: #3fb950; }
+.sep  { fill: #30363d; }
+.usr  { fill: #58a6ff; font-weight: 700; }
+.hst  { fill: #3fb950; font-weight: 700; }
+.ttl  { fill: #f0f6fc; font-weight: 700; }
+</style>
+
+<!-- ASCII art logo left column -->
+<text x="44" y="72" font-size="11.5" class="mono" fill="#58a6ff" letter-spacing="0">
+  <tspan x="44" dy="0">  █████╗ ██████╗ ██████╗ </tspan>
+  <tspan x="44" dy="15"> ██╔══██╗██╔══██╗██╔══██╗</tspan>
+  <tspan x="44" dy="15"> ███████║██████╔╝██████╔╝</tspan>
+  <tspan x="44" dy="15"> ██╔══██║██╔══██╗██╔══██╗</tspan>
+  <tspan x="44" dy="15"> ██║  ██║██████╔╝██║  ██║</tspan>
+  <tspan x="44" dy="15"> ╚═╝  ╚═╝╚═════╝ ╚═╝  ╚═╝</tspan>
+</text>
+
+<!-- Color swatches bottom-left -->
+<rect x="44"  y="176" width="14" height="14" rx="2" fill="#21262d"/>
+<rect x="62"  y="176" width="14" height="14" rx="2" fill="#58a6ff"/>
+<rect x="80"  y="176" width="14" height="14" rx="2" fill="#3fb950"/>
+<rect x="98"  y="176" width="14" height="14" rx="2" fill="#d2a8ff"/>
+<rect x="116" y="176" width="14" height="14" rx="2" fill="#ffa657"/>
+<rect x="134" y="176" width="14" height="14" rx="2" fill="#ff7b72"/>
+<rect x="152" y="176" width="14" height="14" rx="2" fill="#f0f6fc"/>
+<rect x="170" y="176" width="14" height="14" rx="2" fill="#8b949e"/>
+
+<!-- Divider -->
+<line x1="240" y1="44" x2="240" y2="276" stroke="#21262d" stroke-width="1"/>
+
+<!-- Right column: header -->
+<text x="260" y="68" font-size="13" class="mono">
+  <tspan class="usr">abritex</tspan><tspan class="dim">@</tspan><tspan class="hst">github.com</tspan>
+</text>
+<text x="260" y="87" font-size="12" class="mono sep">────────────────────────────────────────</text>
+
+<!-- Info rows -->
+<text x="260" y="110" font-size="12.5" class="mono"><tspan class="key">OS        </tspan><tspan class="dim">: </tspan><tspan class="val">Human 1.0 (Philippines)</tspan></text>
+<text x="260" y="128" font-size="12.5" class="mono"><tspan class="key">Role      </tspan><tspan class="dim">: </tspan><tspan class="val">Frontend Dev &amp; UI Craftsman</tspan></text>
+<text x="260" y="146" font-size="12.5" class="mono"><tspan class="key">Shell     </tspan><tspan class="dim">: </tspan><tspan class="val">zsh + oh-my-zsh</tspan></text>
+<text x="260" y="164" font-size="12.5" class="mono"><tspan class="key">Editor    </tspan><tspan class="dim">: </tspan><tspan class="val">VS Code (100 tabs open)</tspan></text>
+<text x="260" y="182" font-size="12.5" class="mono"><tspan class="key">Focus     </tspan><tspan class="dim">: </tspan><tspan class="val">React · TypeScript · CSS</tspan></text>
+<text x="260" y="200" font-size="12.5" class="mono"><tspan class="key">Learning  </tspan><tspan class="dim">: </tspan><tspan class="val">Web Animations · Three.js</tspan></text>
+<text x="260" y="218" font-size="12.5" class="mono"><tspan class="key">Timezone  </tspan><tspan class="dim">: </tspan><tspan class="val">UTC+8 (Asia/Manila)</tspan></text>
+<text x="260" y="236" font-size="12.5" class="mono"><tspan class="key">Status    </tspan><tspan class="dim">: </tspan><tspan class="grn">● Open to work</tspan></text>
+<text x="260" y="254" font-size="12.5" class="mono"><tspan class="key">Fun fact  </tspan><tspan class="dim">: </tspan><tspan class="val">More time naming vars than writing</tspan></text>
+<text x="260" y="272" font-size="12.5" class="mono"><tspan class="key">Contact   </tspan><tspan class="dim">: </tspan><tspan class="val">nicos.abeleda@gmail.com</tspan></text>
+
+<!-- Color swatches right column -->
+<rect x="260" y="286" width="14" height="14" rx="2" fill="#21262d"/>
+<rect x="278" y="286" width="14" height="14" rx="2" fill="#58a6ff"/>
+<rect x="296" y="286" width="14" height="14" rx="2" fill="#3fb950"/>
+<rect x="314" y="286" width="14" height="14" rx="2" fill="#d2a8ff"/>
+<rect x="332" y="286" width="14" height="14" rx="2" fill="#ffa657"/>
+<rect x="350" y="286" width="14" height="14" rx="2" fill="#ff7b72"/>
+<rect x="368" y="286" width="14" height="14" rx="2" fill="#f0f6fc"/>
+<rect x="386" y="286" width="14" height="14" rx="2" fill="#8b949e"/>
+
+</svg>
