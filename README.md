@@ -22,7 +22,7 @@
 ## 🖥️ About Me
 
 <div align="center">
-  <img src="assets/neofetch.svg" alt="abritex neofetch" width="680" />
+  <img src="asset/neofetch.svg" alt="abritex neofetch" width="680" />
 </div>
 ---
 
