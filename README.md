@@ -24,6 +24,7 @@
 <div align="center">
   <img src="asset/neofetch.svg" alt="abritex neofetch" width="680" />
 </div>
+
 ---
 
 ## 💻 Tech Stack
