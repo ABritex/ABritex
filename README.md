@@ -1,10 +1,7 @@
 <div align="center">
   <img src="https://github-profile-maker.vercel.app/api/capsule?type=waving&color=36BCF7&colorEnd=6B5DD3&height=200&section=header&text=Welcome+to+my+GitHub%21&fontSize=30&fontColor=ffffff&animation=none&gradientDirection=horizontal&parallax=true&wavePosition=70&waveAmplitude=20&waveSpeed=20&flipWave=true&textAlignX=50&textAlignY=33" />
 </div>
-<!-- Status badges -->
-![Status](https://img.shields.io/badge/🟢_Open_to_Work-238636?style=flat-square&labelColor=0d1117&color=238636)
-![Location](https://img.shields.io/badge/📍_Philippines-30363d?style=flat-square&labelColor=0d1117&color=30363d)
-![Timezone](https://img.shields.io/badge/🕐_UTC%2B8-30363d?style=flat-square&labelColor=0d1117&color=30363d)
+
 
 # Hi, I'm abritex 👋
 
@@ -22,14 +19,11 @@
 
 ---
 
-## 🧑‍💻 About Me
+## 🖥️ About Me
 
-> 🔥 Passionate frontend developer who turns designs into fast, accessible, pixel-perfect web experiences.
-
-- 🌱 Currently exploring **Web Animations API** & **Three.js**
-- 💬 Ask me about **React**, **TypeScript**, or **CSS architecture**
-- ⚡ Fun fact: I spend more time naming variables than writing them
-
+<div align="center">
+  <img src="assets/neofetch.svg" alt="abritex neofetch" width="680" />
+</div>
 ---
 
 ## 💻 Tech Stack
@@ -106,9 +100,3 @@ If you find my projects helpful, consider buying me a coffee!
 
 <div align="center">
   <img src="https://github-profile-maker.vercel.app/api/capsule?type=waving&color=36BCF7&colorEnd=6B5DD3&height=120&section=footer&text=Thanks+for+visiting%21&fontSize=24&fontColor=ffffff&animation=none&gradientDirection=horizontal&parallax=true&wavePosition=70&waveAmplitude=20&waveSpeed=20&flipWave=true&textAlignX=50&textAlignY=66" />
-</div>
-![Profile Views](https://komarev.com/ghpvc/?username=abritex&color=58a6ff&style=flat-square&label=Profile+Views)
-
-*Thanks for stopping by — go build something great!*
-
-</div>
