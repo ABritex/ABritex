@@ -52,13 +52,10 @@
 
 ## 📊 GitHub Stats
 
-<!-- Replace "abritex" with your GitHub username in all URLs below -->
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=abritex&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abritex&theme=github_dark&hide_border=true&layout=compact&count_private=true" />
-
+<img src="https://raw.githubusercontent.com/abritex/abritex/snake-output/snake.svg" alt="Snake animation" />
 <img width="100%" src="https://streak-stats.demolab.com/?user=abritex&theme=github-dark-blue&hide_border=true" />
 
 </div>
