@@ -5,7 +5,7 @@
 
 # Hi, I'm abritex 👋
 
-**Frontend Developer & UI Craftsman**
+**Full-stack dev & Graphics Designer**
 
 <!-- Typing animation — replace "abritex" with your username -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Mono&size=16&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=520&lines=Building+beautiful+web+experiences+%E2%9C%A6;Turning+designs+into+pixel-perfect+code;Always+learning+something+new)](https://git.io/typing-svg)
