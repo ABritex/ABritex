@@ -48,7 +48,7 @@
 
 <!-- Info rows -->
 <text x="260" y="110" font-size="12.5" class="mono"><tspan class="key">OS        </tspan><tspan class="dim">: </tspan><tspan class="val">Human 1.0 (Philippines)</tspan></text>
-<text x="260" y="128" font-size="12.5" class="mono"><tspan class="key">Role      </tspan><tspan class="dim">: </tspan><tspan class="val">Frontend Dev &amp; UI Craftsman</tspan></text>
+<text x="260" y="128" font-size="12.5" class="mono"><tspan class="key">Role      </tspan><tspan class="dim">: </tspan><tspan class="val">Full-stack dev &amp; Graphics Designer</tspan></text>
 <text x="260" y="146" font-size="12.5" class="mono"><tspan class="key">Shell     </tspan><tspan class="dim">: </tspan><tspan class="val">zsh + oh-my-zsh</tspan></text>
 <text x="260" y="164" font-size="12.5" class="mono"><tspan class="key">Editor    </tspan><tspan class="dim">: </tspan><tspan class="val">VS Code (100 tabs open)</tspan></text>
 <text x="260" y="182" font-size="12.5" class="mono"><tspan class="key">Focus     </tspan><tspan class="dim">: </tspan><tspan class="val">React · TypeScript · CSS</tspan></text>
